@@ -1,0 +1,13 @@
+.component-button{
+	width: 25%;
+}
+.component-button button {
+	width: 100%;
+    padding: 10px;
+}
+.component-button.grey button{
+	background: #cdd0d2;
+}
+.component-button.wide{
+	width: 50%;
+}

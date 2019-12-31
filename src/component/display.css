@@ -1,0 +1,21 @@
+.component-display{
+	width: 100%;
+	background: #968f8f;
+	text-align: right;
+	color: black;
+	font-weight: bold;
+	font-size: 35px;
+
+}
+.component-display div{
+	padding: 0px 10px 5px 10px;
+}
+.component-equation{
+	height: 15px;
+	color: #ccc;
+	font-size: 15px;
+	font-weight: normal;
+}
+.component-equation div {
+	padding: 5px 15px 0px 10px;
+}
