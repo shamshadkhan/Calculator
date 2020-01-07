@@ -9,4 +9,4 @@ Procedure:
      4. run command 'npm start'
      5. bash provides the url go to the url http://localhost:3000/
      
-Demo: https://reactcalculator.shamshadcse90.now.sh
+Demo: https://reactcalculator.shamshadcse90.now.sh/
